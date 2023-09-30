@@ -8,7 +8,7 @@
 I'm Vidhya Venkatesan, I am a Web Developer from Mumbai, India 
 
 ## 🧐 About
-- 🤠 Full stack web developer 
+- 🤠 Web developer 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - ⚡ Skilled in HTML5, CSS3, Jekyll, Hugo, Liferay and learning new technologies to create highly-skilled tech products.
 
