@@ -1,5 +1,6 @@
 # Vidhya Venkatesan
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidhyav656/)
 [![Twitter Badge](http://img.shields.io/badge/-@vidhyav656-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/vidhyav656)](https://twitter.com/vidhyav656) [![GitHub followers](https://img.shields.io/github/followers/vidhyav656?label=Follow&style=social)](https://github.com/vidhyav656/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-vidhyav656-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vidhyav656@gmail.com)](mailto:vidhyav656@gmail.com) [Quora](https://www.quora.com/profile/Vidhya-V-110)
 ---
 
