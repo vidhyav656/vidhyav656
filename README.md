@@ -5,11 +5,11 @@
 
 ## Hi there 👋, 
 
-I'm Vidhya Venkatesan, I am a Full Stack Web Developer from Mumbai, India 
+I'm Vidhya Venkatesan, I am a Web Developer from Mumbai, India 
 
 ## 🧐 About
 - 🤠 Full stack web developer 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
-- ⚡ Skilled in HTML5, CSS3, Jekyll, Hugo, PHP, Ruby and learning new technologies to create highly-skilled tech products.
+- ⚡ Skilled in HTML5, CSS3, Jekyll, Hugo, Liferay and learning new technologies to create highly-skilled tech products.
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/VidhyaVenkatesan) 
